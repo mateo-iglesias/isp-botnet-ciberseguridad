@@ -1,6 +1,6 @@
 # Dos casos de botnet en clientes de un ISP: cómo encontré los equipos infectados
 
-[Read in English](README.en.md) | [Leer en Español](README.md)
+[Read in English](README.en.md)
 
 ## Executive Summary
 
